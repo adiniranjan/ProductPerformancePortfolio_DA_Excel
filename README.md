@@ -1,16 +1,16 @@
 # ProductPerformancePortfolio_DA_Excel
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/logistics-shipping-delivery/search-product-icon.png" width=200 height=200>
 
-## *A Data Analysis project using Excel (Office 365)*
+## *A Data Analysis project using Excel (Office 365)*</br>
 
 ## Source:
 The **Source** folder contains all the source files from which the excel sheets were derived. <br>
 * Sales.csv <br>
 * Products.csv <br>
-* Customers.csv
+* Customers.csv </br>
 
 ## **Product Performance Portfolio.xlsx**:
-It is the excel file with two sheets, *Table* containing analysis and *Dashboard* containing visualisation.
+It is the excel file with two sheets, *Table* containing analysis and *Dashboard* containing visualisation. </br>
 
 ## Components used in the project -
 ### *Table:*
