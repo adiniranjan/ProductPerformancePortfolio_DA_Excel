@@ -10,7 +10,7 @@ The **Source** folder contains all the source files from which the excel sheets 
 * Customers.csv
 
 ### Product Performance Portfolio.xlsx:
-It is the excel file with two sheets *Table* containing analysis and *Dashboard* containing visualisation.
+It is the excel file with two sheets, *Table* containing analysis and *Dashboard* containing visualisation.
 
 ## Components used in the project -
 ## *Table:*
