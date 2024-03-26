@@ -1,7 +1,7 @@
 # ProductPerformancePortfolio_DA_Excel
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/logistics-shipping-delivery/search-product-icon.png" width=200 height=200>
 
-## *A Data Analysis project using Excel (Office 365)*</br>
+## *A Excel project on product performance*</br>
 
 ### Source:
 The **Source** folder contains all the source files from which the excel sheets were derived. <br>
