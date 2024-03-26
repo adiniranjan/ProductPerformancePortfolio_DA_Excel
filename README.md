@@ -1,4 +1,4 @@
-# ProductPerformancePortfolio_DA_Excel
+# Product_Performance_Portfolio
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/logistics-shipping-delivery/search-product-icon.png" width=200 height=200>
 
 ## *A Excel project on product performance*</br>
