@@ -19,4 +19,4 @@ Numerical functions, String Functions, Index, Match, XLOOKUP, Date Functions, Fi
 Pivot tables, Pivot charts (Cluster, Pie, Bar, Line, Dual Axis), Timelines, Slicers, Formatting and Designing.
 
 ## Details:
-**We will be monitoring the performance of our products based on sales, quantities, categories in different regions, profit groups, time frames, etc. We will also be analysing the top performing products and the corelation between discount and loss.**
+**We will be monitoring the performance of our products based on sales, quantities, categories in different regions, profit groups, time frames, etc. We will also be analyzing the top performing products and the correlation between discount and loss.**
